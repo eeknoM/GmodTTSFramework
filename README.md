@@ -48,11 +48,11 @@ Sets the speed of the TTS output. Replace `[speed]` with a numeric value between
 1. **Enable TTS:**
 tts_toggle
 
-2. **Change Voice:**
-tts_voice bonzi
+2. **Change Model:**
+tts_model bonzi
 
-3. **Change Model:**
-tts_model google
+3. **Change Voice:**
+tts_voice mike
 
 4. **Adjust Pitch:**
 tts_pitch 150
