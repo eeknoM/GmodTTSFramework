@@ -1,4 +1,4 @@
-# Garry's Mod Text-to-Speech (TTS) System
+# Garry's Mod Text-to-Speech (TTS)
 
 This is a simple Garry's Mod add-on that provides a Text-to-Speech (TTS)
 
