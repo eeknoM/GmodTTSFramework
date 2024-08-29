@@ -60,4 +60,4 @@ tts_pitch 150
 5. **Adjust Speed:**
 tts_speed 100
 
-For further assistance, please contact the project maintainer or open an issue on the repository's GitHub page.
+This project is no longer being maintained.
