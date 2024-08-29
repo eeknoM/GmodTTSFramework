@@ -28,19 +28,19 @@ garrysmod/addons/tts-addon/ ├── lua/ ├── autorun/ └── cl_tts.l
 
 ## Client Commands
 
-### `!tts_toggle`
+### `tts_toggle`
 Toggles the TTS functionality for the player.
 
-### `!tts_voice [voice]`
+### `tts_voice [voice]`
 Sets the TTS voice for the player. Replace `[voice]` with one of the available voice options defined in `config.lua`.
 
-### `!tts_model [model]`
+### `tts_model [model]`
 Sets the TTS model for the player. Replace `[model]` with one of the available model options defined in `config.lua`.
 
-### `!tts_pitch [pitch]`
+### `tts_pitch [pitch]`
 Sets the pitch of the TTS output. Replace `[pitch]` with a numeric value between 50 and 400.
 
-### `!tts_speed [speed]`
+### `tts_speed [speed]`
 Sets the speed of the TTS output. Replace `[speed]` with a numeric value between 50 and 250.
 
 ## Example Usage
