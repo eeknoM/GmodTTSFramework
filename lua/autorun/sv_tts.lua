@@ -12,7 +12,7 @@ util.AddNetworkString("TTSChangeModel")
 util.AddNetworkString("TTSChangePitch")
 util.AddNetworkString("TTSChangeSpeed")
 
--- Persistent tables to store player TTS preferences
+-- Tables to store player TTS preferences
 tts_player_enabled = enabled_tts_players or {}
 tts_player_voices = tts_player_voices or {}
 tts_player_models = tts_player_models or {}
